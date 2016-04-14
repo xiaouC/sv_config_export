@@ -1,0 +1,2 @@
+python tolua.py
+pause
